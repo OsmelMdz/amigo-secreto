@@ -24,3 +24,13 @@ function mostrarListaAmigos() {
         listaAmigos.appendChild(li);
     });
 }
+
+// Implementa una función para sortear los amigos
+function sortearAmigo() {
+    if (amigos.length === 0) {
+        alert('Por favor, agregue al menos un amigo antes de sortear.');
+        return;
+    }
+    const amigoSorteado = amigos[Math.floor(Math.random() * amigos.length)];
+    mostrarResultado(amigoSorteado);
+}
