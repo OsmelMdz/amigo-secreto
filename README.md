@@ -33,18 +33,16 @@ Este proyecto no tiene dependencias externas, solo utiliza HTML, CSS y JavaScrip
 
 ## Estructura del Proyecto
 
-amigo-secreto/
-│
-├── assets/                # Imágenes y otros recursos estáticos
-│   ├── amigo-secreto.png
-│   └── play_circle_outline.png
-│
-├── style.css              # Estilos de la aplicación
-├── app.js                 # Lógica de la aplicación en JavaScript
-├── index.html             # Estructura HTML de la aplicación
-├── favicon.ico            # Icono del sitio web
-├── README.md              # Documentación del proyecto
-└── LICENSE.txt            # Archivo de licencia
+- **amigo-secreto/**
+  - **assets/**: Imágenes y otros recursos estáticos
+    - amigo-secreto.png
+    - play_circle_outline.png
+  - **style.css**: Estilos de la aplicación
+  - **app.js**: Lógica de la aplicación en JavaScript
+  - **index.html**: Estructura HTML de la aplicación
+  - **favicon.ico**: Icono del sitio web
+  - **README.md**: Documentación del proyecto
+  - **LICENSE.txt**: Archivo de licencia
 
 ## Contribución
 Si deseas contribuir a este proyecto, puedes hacer un fork y abrir un pull request. Asegúrate de seguir las buenas prácticas y de documentar cualquier cambio significativo que realices.
