@@ -1,0 +1,23 @@
+MIT License
+
+Copyright (c) 2025 Ing. Héctor Osmel Méndez López
+
+El software "Proyecto Amigo Secreto" es una aplicación web que permite a los usuarios ingresar nombres de amigos y realizar un sorteo aleatorio para determinar el "amigo secreto". Los usuarios pueden agregar nombres mediante un campo de texto, ver la lista de amigos, y realizar el sorteo con un solo clic.
+
+Se concede permiso, de manera gratuita, a cualquier persona que obtenga una copia
+de este software y los archivos de documentación asociados (el "Software"), para
+dealing en el Software sin restricción, incluyendo, sin limitarse a, los derechos
+de usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender
+copias del Software, y para permitir a las personas a quienes se les proporcione
+el Software a hacer lo mismo, sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las
+copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIABILIDAD, ADECUACIÓN
+PARA UN FIN PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL AUTOR O LOS TITULARES
+DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMO, DAÑO O OTRA
+RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRA
+RESPONSABILIDAD, QUE SURJA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO TIPO
+DE ACCIONES EN EL SOFTWARE.
