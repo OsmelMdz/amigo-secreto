@@ -22,10 +22,10 @@ Este proyecto es una aplicación web que permite a los usuarios ingresar nombres
 ### 3. Abre el archivo index.html en tu navegador para probar la aplicación.
 
 ## Uso
-## 1. Ingresa el nombre de un amigo en el campo de texto.
-## 2. Haz clic en el botón "Añadir" para agregarlo a la lista.
-## 3. Una vez agregados varios nombres, haz clic en "Sortear amigo" para seleccionar un amigo aleatorio de la lista.
-## 4. El nombre del amigo secreto se mostrará en pantalla.
+1. Ingresa el nombre de un amigo en el campo de texto.
+2. Haz clic en el botón "Añadir" para agregarlo a la lista.
+3. Una vez agregados varios nombres, haz clic en "Sortear amigo" para seleccionar un amigo aleatorio de la lista.
+4. El nombre del amigo secreto se mostrará en pantalla.
 
 ## Dependencias
 
@@ -47,10 +47,10 @@ Este proyecto no tiene dependencias externas, solo utiliza HTML, CSS y JavaScrip
 ## Contribución
 Si deseas contribuir a este proyecto, puedes hacer un fork y abrir un pull request. Asegúrate de seguir las buenas prácticas y de documentar cualquier cambio significativo que realices.
 
-### 1. Haz un fork de este repositorio.
-### 2. Crea una rama para tu funcionalidad o corrección.
-### 3. Realiza los cambios y asegúrate de que todo esté probado.
-### 4. Haz un pull request con una descripción clara de lo que cambiaste.
+1. Haz un fork de este repositorio.
+2. Crea una rama para tu funcionalidad o corrección.
+3. Realiza los cambios y asegúrate de que todo esté probado.
+4. Haz un pull request con una descripción clara de lo que cambiaste.
 
 ## Problemas y Soluciones Comunes
 
