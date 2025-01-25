@@ -34,3 +34,12 @@ function sortearAmigo() {
     const amigoSorteado = amigos[Math.floor(Math.random() * amigos.length)];
     mostrarResultado(amigoSorteado);
 }
+
+// Función para mostrar el resultado del sorteo
+function mostrarResultado(amigo) {
+    const resultado = document.getElementById('resultado');
+    resultado.innerHTML = '';
+    const li = document.createElement('li');
+    li.textContent = `El amigo secreto es: ${amigo}`;
+    resultado.appendChild(li);
+}
